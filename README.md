@@ -34,8 +34,8 @@ Chalice configures the bucket-to-function connection, and can be easily deployed
 
 #### Database Service
 
-All students share a single RDS database service provided by our instructor. 
-You did not to create the database server myself, but I created a new database and all the necessary tables within it.
+The RDS database service was provided by our class's instructor. 
+I did not to create the database server myself, but I created a new database and all the necessary tables within it.
 
 #### EC2 Instance
 
