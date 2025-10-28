@@ -1,6 +1,6 @@
 # This is a DIY Spotify Project for Intro to Computing
 
-In this project I built a web-based music player that resembles Spotify, but contains my friend's and my favorite songs/covers that aren't availble on Spotify. 
+In this project I built a web-based music player that resembles Spotify, but contains my favorite songs/covers that aren't availble on Spotify. 
 
 In this project:
 - I organized and created data files according to a schema
